@@ -12,5 +12,7 @@ But it cam be reduced
 |Mary|mary@email.com|01-10-2002
 
 # Task List
-* [] Task 0 (unmarked)
+* [ ] Task 0 (unmarked)
 * [x] Task 1 (marked)
+* [ ] Task 2 (unamrked)
+* [x] Task 3 (marked)
